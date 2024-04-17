@@ -407,7 +407,7 @@ ul.accordion-list li div.answer p {
 }
 /* our team page css starts */
 .our-team-top-banner{
-    background-image: url(/assets/images/team/top-banner.png);
+    background-image: url('../images/team/top-banner.png');
     height: 70vh;
     background-position: center;
     background-size: cover;
