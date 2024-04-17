@@ -311,7 +311,7 @@ ul.accordion-list li div.answer p {
   font-size: 14px;
 }
 .connect-banner{
-  background-image: url('./assets/images/home/banner.png');
+  background-image: url('../images/home/banner.png');
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -340,7 +340,7 @@ ul.accordion-list li div.answer p {
 
 }
 .our-story{
-    background-image: url('/assets/images/about/our-story.png');
+    background-image: url('../images/about/our-story.png');
     height: 90vh;
     background-position: top;
     background-size: cover;
@@ -362,7 +362,7 @@ ul.accordion-list li div.answer p {
 
   /* services pages css starts */
   .services-top-banner{
-    background-image: url(/assets/images/services/top-banner.png);
+    background-image: url('../images/services/top-banner.png');
     height: 70vh;
     background-position: center;
     background-size: cover;
@@ -386,7 +386,7 @@ ul.accordion-list li div.answer p {
   /* services pages css ends */
 
 .contact-top-banner{
-  background-image: url(/assets/images/contact-banner.png);
+  background-image: url('../images/contact-banner.png');
     height: 70vh;
     background-position: center;
     background-size: cover;
